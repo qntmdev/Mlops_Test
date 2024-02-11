@@ -2,6 +2,10 @@
 -e .
 
 # external requirements
+pandas
+numpy
+tensorflow
+keras
 click
 Sphinx
 coverage
